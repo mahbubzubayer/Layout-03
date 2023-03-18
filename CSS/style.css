@@ -1,0 +1,46 @@
+*{
+                    margin: 0%;
+                }
+                header{
+                    width: 100%;
+                    height: 150px;
+                    background-color: rgb(60, 0, 60);
+                    color: bisque;
+                    text-align: center;
+                
+                }
+                .navi{
+                    width: 100%;
+                    height: 70px;
+                    background-color: rgb(101, 8, 101);
+                    color: bisque;
+                    text-align: center;
+                }
+                .bod{
+                    overflow: hidden;
+                }
+                .index{
+                    width: 30%;
+                    height: 500px;
+                    background-color: rgb(146, 20, 146);
+                    color: bisque;
+                    text-align: center;
+                    float: left;
+                }
+                .con_sec{
+                    width: 70%;
+                    height: 500px;
+                    background-color: rgb(181, 17, 181);
+                    color:bisque ;
+                    text-align: center;
+                    float: right;
+                }
+                footer{
+                    width: 100%;
+                    height: 60px;
+                    background-color: darkmagenta;
+                    color: bisque;
+                    text-align: center;
+                
+                }
+                
